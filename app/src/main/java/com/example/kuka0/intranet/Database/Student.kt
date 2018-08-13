@@ -13,5 +13,9 @@ class Student {
         this.age = age
         this.year = year
     }
+    constructor(name:String,age:String){
+        this.name=name
+        this.age = age
+    }
 
 }
